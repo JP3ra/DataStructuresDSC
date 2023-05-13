@@ -1,1 +1,2 @@
-printf("After inserting end \n\n");
+int res = countOccurence(head, 20);
+    printf("%d", res);
