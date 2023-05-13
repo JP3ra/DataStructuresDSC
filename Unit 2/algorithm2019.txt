@@ -1,0 +1,9 @@
+Design an algorithm stackequal, which checks whether the given two stacks
+contain equal number of elements. If true, It checks whether the two stacks
+contain elements in same order. Temporary stacks can be used and original
+stack has to be undisturbed after operations.
+
+
+1. Take the inputs for the top2
+2. Have a function to get to total number of elements and checks
+3. 
